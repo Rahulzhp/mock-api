@@ -1,10 +1,14 @@
 {
     "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      }  
+        {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 1299,
+          "borrowed": false
+        } 
     ]
   }
