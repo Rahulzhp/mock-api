@@ -16,7 +16,6 @@
         }           
     ],
     "blogs":[
-      [
         {
           "id" : 1,
           "username": "coreyschafer",
@@ -37,7 +36,6 @@
           "likes" : 25,
           "comments" : [{"username" : "Jhon", "content" : "Intersting"}, {"username" : "Lost", "content" : "Loved It!"}]
         }
-      ]
     ]
   }
 
